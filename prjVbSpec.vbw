@@ -1,0 +1,8 @@
+frmMain = 44, 44, 548, 466, C, 22, 22, 526, 444, C
+basMain = 114, 230, 618, 652, C
+clsMsg = 44, 44, 696, 632, C
+basVbSpecConst = 154, 203, 812, 797, C
+basFile = 176, 176, 828, 764, C
+basVbSpecStructure = 220, 220, 872, 808, C
+frmProgress = 0, 0, 626, 591, C, 220, 220, 846, 811, C
+clsLog = 110, 110, 697, 698, C
